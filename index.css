@@ -114,6 +114,12 @@ input:active{
     display:none;
 }
 
+.heading{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
 
 
 
